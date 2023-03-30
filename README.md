@@ -25,4 +25,4 @@ This repository is organized into several folders, each containing notes and cod
 Contributions to this repository are welcome! If you have notes or code snippets related to Salesforce development that you'd like to share, feel free to open a pull request.
 
 ## License
-Current under self
+Currently under self
