@@ -10,7 +10,9 @@ License
 To get started with this repository, simply clone it to your local machine:
 
 bash
-git clone https://github.com/your-username/your-repo.git
+```
+https://github.com/Zaheer-zk/Salesforce-Notes-and-Code-Repository 
+```
 Once you have the repository cloned, you can explore the different folders to find the information you're looking for.
 
 ## Folder Structure
